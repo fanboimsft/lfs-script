@@ -1,7 +1,7 @@
 pkgbuild_version=5
 _pkgbase=linux
 pkgname="${_pkgbase}-headers"
-pkgver=5.7
+pkgver=5.9.4
 
 dependencies=(
     "!$pkgname"

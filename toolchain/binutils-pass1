@@ -1,7 +1,7 @@
 pkgbuild_version=5
 _pkgbase=binutils
 pkgname="${_pkgbase}-pass1"
-pkgver=2.34
+pkgver=2.35.1
 
 _info_pages=(
     'binutils.info'

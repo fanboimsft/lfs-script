@@ -2,11 +2,11 @@
 pkgbuild_version=5
 _pkgbase=gcc
 pkgname="${_pkgbase}-pass2"
-pkgver=10.1.0
+pkgver=10.2.0
 
-_mpfr_ver=4.0.2
+_mpfr_ver=4.1.0
 _gmp_ver=6.2.0
-_mpc_ver=1.1.0
+_mpc_ver=1.2.1
 
 #man pages to be deleted
 _man_pages=(

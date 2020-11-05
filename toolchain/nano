@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=nano
-pkgver=4.9.3
+pkgver=5.3.0
 
 dependencies=(
     	"!$pkgname"

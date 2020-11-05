@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=xz
-pkgver=5.2.5
+pkgver=5.3.1
 
 dependencies=(
     	"!$pkgname"

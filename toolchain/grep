@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=grep
-pkgver=3.4
+pkgver=3.5
 
 dependencies=(
     "!$pkgname"

@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=libressl
-pkgver=3.1.2
+pkgver=3.2.2
 
 dependencies=(
     "!$pkgname"

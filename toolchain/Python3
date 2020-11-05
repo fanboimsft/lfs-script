@@ -1,7 +1,7 @@
 pkgbuild_version=5
 pkgname=Python3
 _pkgname=Python
-pkgver=3.8.3
+pkgver=3.9.0
 
 overwrite=(
 	'/usr/bin/python'

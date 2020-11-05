@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=glibc
-pkgver=2.31
+pkgver=2.32
 
 _info_pages=(
     'libc.info'

@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=kiss
-pkgver=2.1.7
+pkgver=6.0.0
 
 dependencies=(
     "!$pkgname"

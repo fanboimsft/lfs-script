@@ -1,6 +1,6 @@
 pkgbuild_version=5
 pkgname=gettext
-pkgver=0.20.2
+pkgver=0.21
 
 dependencies=(
     "!$pkgname"
